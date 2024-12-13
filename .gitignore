@@ -1,0 +1,4 @@
+.venv
+.DS_Store
+air_quality/*
+bike_sharing/*

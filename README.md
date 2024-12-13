@@ -1,2 +1,3 @@
 # Deep Learning Methods for Time Series Analysis
-## STATS 207 Project
+Final Project for STATS 207
+Warning: Repo has not been cleaned!

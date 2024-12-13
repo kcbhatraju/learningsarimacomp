@@ -2,3 +2,4 @@
 .DS_Store
 air_quality/*
 bike_sharing/*
+household_power_consumption.txt
